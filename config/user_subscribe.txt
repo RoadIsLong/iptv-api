@@ -1,15 +1,5 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
-
-https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
-https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
-https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
-https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt
-https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
-
-https://raw.githubusercontent.com/best-fan/iptv-sources/refs/heads/main/cn_cctv.m3u8
-https://raw.githubusercontent.com/best-fan/iptv-sources/refs/heads/main/cn_province.m3u8
 #http://119.91.7.169:5501/jmb21.txt
 #https://iptv-org.github.io/iptv/languages/zho.m3u
 #https://github.com/ssili126/tv/raw/refs/heads/main/itvlist.txt
@@ -17,7 +7,15 @@ https://raw.githubusercontent.com/best-fan/iptv-sources/refs/heads/main/cn_provi
 #https://github.com/zwc456baby/iptv_alive/raw/refs/heads/master/live.txt
 #https://github.com/cs3306/IPTV-Sources/raw/refs/heads/main/data/output/iptv_collection.m3u
 #http://117.72.68.25:9230/latest.txt
+https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
+https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt
+https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
+https://raw.githubusercontent.com/best-fan/iptv-sources/refs/heads/main/cn_cctv.m3u8
+https://raw.githubusercontent.com/best-fan/iptv-sources/refs/heads/main/cn_province.m3u8
 
+# https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
