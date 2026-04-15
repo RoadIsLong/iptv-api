@@ -11,6 +11,10 @@ name: 'Update schedule'
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "0 23 * * 3"
+  watch:
+    types: [started]
 
 jobs:
   push:
